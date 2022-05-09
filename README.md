@@ -3,3 +3,5 @@
 # MSSC Beer Inventory Service
 
 #### Spring Boot Microservice Example
+
+#### Api Docs can be viewed locally on: http://localhost:8082/swagger-ui/index.html#/
